@@ -29,11 +29,11 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
         description: "Lets help you!",
         image: "assets/images/slider1.jpg"),
     SliderModel(
-        title: "Convenient Flexible Effective",
+        title: "slider 2",
         description: "Description goes here..",
         image: "assets/images/slider2.jpg"),
     SliderModel(
-        title: "Feel Your Freedom",
+        title: "Slider 3",
         description: "Description goes here..",
         image: "assets/images/slider3.jpg"),
   ];

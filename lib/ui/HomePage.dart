@@ -2,10 +2,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_app_shade6/components/DogWalkerCard.dart';
 import 'package:flutter_app_shade6/components/HeaderwithButton.dart';
-import 'package:flutter_app_shade6/components/RoundedButton.dart';
-import 'package:flutter_app_shade6/ui/SliderModel.dart';
-import 'package:flutter_app_shade6/global_variables.dart';
-import 'package:flutter_app_shade6/ui/signup.dart';
+
 
 class HomePage extends StatefulWidget {
   @override
